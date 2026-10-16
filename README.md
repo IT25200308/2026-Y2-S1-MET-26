@@ -212,14 +212,14 @@ The project provided practical experience in collaborative machine learning deve
 
 | Team Member | Assigned Model |
 |---|---|
-| Member 1 | Linear Regression |
-| Member 2 | XGBoost |
-| Member 3 | Extra Trees Regressor |
-| Member 4 | TabNet |
-| Member 5 | LightGBM |
-| Member 6 | CatBoost |
+| Agksheya | Linear Regression |
+| Shathurshigah | XGBoost |
+| Agksheya | Extra Trees Regressor |
+| Lochana | TabNet |
+| Moneesha | LightGBM |
+| Vipusha | CatBoost |
 
-*Contributor names and GitHub profiles can be added here.*
+
 
 ---
 
