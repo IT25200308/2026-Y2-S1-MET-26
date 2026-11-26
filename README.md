@@ -216,7 +216,7 @@ The project provided practical experience in collaborative machine learning deve
 | Shathurshigah | XGBoost |
 | Agksheya | Extra Trees Regressor |
 | Lochana | TabNet |
-| Moneesha | LightGBM |
+| Monessha | LightGBM |
 | Vipusha | CatBoost |
 
 
