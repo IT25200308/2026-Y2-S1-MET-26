@@ -1,1 +1,1 @@
-Create raw data folder
+This folder contains the raw dataset
